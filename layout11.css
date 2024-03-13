@@ -1,0 +1,126 @@
+.title{
+    h1{
+        font-family: Jost;
+font-size: 48px;
+font-weight: 700;
+line-height: 63px;
+letter-spacing: -0.5px;
+text-align: center;
+color: #132433;
+
+    }
+    p{
+        font-family: Jost;
+font-size: 20px;
+font-weight: 700;
+line-height: 38px;
+letter-spacing: 0px;
+text-align: center;
+color: #557087;
+
+    }
+}
+
+.bcenter{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.background{
+    button{
+        width: 142px;
+        height: 48px;
+        background-color: #FFFFFF;
+        font-family: Jost;
+        font-size: 14px;
+        font-weight: 700;
+        line-height: 20px;
+        letter-spacing: 1px;
+        text-align: center;
+        color: #557087;
+        border: none;
+        border-radius: 5px;
+        
+        }
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #E0E8F0;
+    width: 345px;
+    height: 415px;
+
+
+    .ovel{
+        border-radius: 50%;
+        width: 80px;
+        height: 80px;
+        background: #FFFFFF;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+          
+        
+
+
+        }
+        
+    .text{
+        
+        
+        h1{
+            font-family: Jost;
+            font-size: 20px;
+            font-weight: 700;
+            line-height: 29px;
+            letter-spacing: 0px;
+            text-align: center;
+            color: #132433;
+        }
+        p{
+            font-family: Jost;
+            font-size: 16px;
+            font-weight: 700;
+            line-height: 23px;
+            letter-spacing: 0px;
+            text-align: center;
+            color: #557087;
+        }
+    
+        
+    }
+    
+
+
+}
+
+.discmore{
+    button{
+        width: 169px;
+        height: 56px;
+        background-color: #0045FF;
+        box-shadow: 0px 16px 24px 0px #1324333D;
+        font-family: Jost;
+        font-size: 14px;
+        font-weight: 700;
+        line-height: 20px;
+        letter-spacing: 1px;
+        text-align: center;
+        color: #FFFFFF;
+        border: none;
+        border-radius: 5px;
+
+
+
+        
+    }
+
+}
+.row{
+    display: flex;
+    justify-content: space-evenly;
+    
+   
+}

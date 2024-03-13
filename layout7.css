@@ -1,0 +1,83 @@
+body{
+    font-family: "Jost", sans-serif;
+
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 100px;
+}
+.imgcontainer{
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+}
+.right{
+    
+    
+    display:flex ;
+    gap: 100px;
+    
+}
+.left{
+    display:flex ;
+    gap: 100px;
+}
+
+
+
+.title1{
+    font-family: Jost;
+    font-weight: 700;
+    line-height: 46px;
+    letter-spacing: -0.25px;
+    color: #132433;
+
+}
+h1{
+font-family: jost;
+font-size: 32px;
+font-weight: 700;
+line-height: 46px;
+letter-spacing: -0.25px;
+text-align: left;
+color: #132433;
+width: 345px;
+height: 92px;
+
+
+
+
+    
+}
+p{  font-family: jost;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 38px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #557087;
+    width: 345px;
+    height: 76px;
+    top: 112px;
+}
+button{
+    background-color: #557087;
+   box-shadow: 0px 16px 24px 0px #1324333D 24%;
+    font-family: Jost;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 1px;
+    text-align: center;
+    width: 169px;
+    height: 56px;
+    color: #FFFFFF;
+    border-radius: 5px;
+    border: none;
+}
+.a{
+    margin: 100px;
+}
